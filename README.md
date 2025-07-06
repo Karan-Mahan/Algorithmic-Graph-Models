@@ -1,1 +1,1 @@
-# Algorithmic-Graph-Models
+# Graph-Algorithms-Applications
